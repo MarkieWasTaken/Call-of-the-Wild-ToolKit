@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mark\\Desktop\\PROJECTS\\Markie - Call of the Wild ToolKit\\Markie - Call of the Wild ToolKit\\Markie - Call of the Wild ToolKit.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mark\\Desktop\\PROJECTS\\Markie - Call of the Wild ToolKit\\Markie - Call of the Wild ToolKit\\Markie - Call of the Wild ToolKit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mark\\Desktop\\PROJECTS\\Markie - Call of the Wild ToolKit\\Markie - Call of the Wild ToolKit\\Markie - Call of the Wild ToolKit.csproj",
+        "projectName": "Markie - Call of the Wild ToolKit",
+        "projectPath": "C:\\Users\\Mark\\Desktop\\PROJECTS\\Markie - Call of the Wild ToolKit\\Markie - Call of the Wild ToolKit\\Markie - Call of the Wild ToolKit.csproj",
+        "packagesPath": "C:\\Users\\Mark\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mark\\Desktop\\PROJECTS\\Markie - Call of the Wild ToolKit\\Markie - Call of the Wild ToolKit\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "swed64": {
+              "target": "Package",
+              "version": "[1.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

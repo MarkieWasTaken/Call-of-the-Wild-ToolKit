@@ -1,0 +1,19 @@
+C:\Users\Mark\Desktop\PROJECTS\Markie - Call of the Wild ToolKit\Markie - Call of the Wild ToolKit\bin\Debug\net8.0-windows\Markie - Call of the Wild ToolKit.exe
+C:\Users\Mark\Desktop\PROJECTS\Markie - Call of the Wild ToolKit\Markie - Call of the Wild ToolKit\bin\Debug\net8.0-windows\Markie - Call of the Wild ToolKit.deps.json
+C:\Users\Mark\Desktop\PROJECTS\Markie - Call of the Wild ToolKit\Markie - Call of the Wild ToolKit\bin\Debug\net8.0-windows\Markie - Call of the Wild ToolKit.runtimeconfig.json
+C:\Users\Mark\Desktop\PROJECTS\Markie - Call of the Wild ToolKit\Markie - Call of the Wild ToolKit\bin\Debug\net8.0-windows\Markie - Call of the Wild ToolKit.dll
+C:\Users\Mark\Desktop\PROJECTS\Markie - Call of the Wild ToolKit\Markie - Call of the Wild ToolKit\bin\Debug\net8.0-windows\Markie - Call of the Wild ToolKit.pdb
+C:\Users\Mark\Desktop\PROJECTS\Markie - Call of the Wild ToolKit\Markie - Call of the Wild ToolKit\bin\Debug\net8.0-windows\swed64.dll
+C:\Users\Mark\Desktop\PROJECTS\Markie - Call of the Wild ToolKit\Markie - Call of the Wild ToolKit\obj\Debug\net8.0-windows\Markie - Call of the Wild ToolKit.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\PROJECTS\Markie - Call of the Wild ToolKit\Markie - Call of the Wild ToolKit\obj\Debug\net8.0-windows\Markie___Call_of_the_Wild_ToolKit.Form1.resources
+C:\Users\Mark\Desktop\PROJECTS\Markie - Call of the Wild ToolKit\Markie - Call of the Wild ToolKit\obj\Debug\net8.0-windows\Markie - Call of the Wild ToolKit.csproj.GenerateResource.cache
+C:\Users\Mark\Desktop\PROJECTS\Markie - Call of the Wild ToolKit\Markie - Call of the Wild ToolKit\obj\Debug\net8.0-windows\Markie - Call of the Wild ToolKit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\Desktop\PROJECTS\Markie - Call of the Wild ToolKit\Markie - Call of the Wild ToolKit\obj\Debug\net8.0-windows\Markie - Call of the Wild ToolKit.AssemblyInfoInputs.cache
+C:\Users\Mark\Desktop\PROJECTS\Markie - Call of the Wild ToolKit\Markie - Call of the Wild ToolKit\obj\Debug\net8.0-windows\Markie - Call of the Wild ToolKit.AssemblyInfo.cs
+C:\Users\Mark\Desktop\PROJECTS\Markie - Call of the Wild ToolKit\Markie - Call of the Wild ToolKit\obj\Debug\net8.0-windows\Markie - Call of the Wild ToolKit.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\PROJECTS\Markie - Call of the Wild ToolKit\Markie - Call of the Wild ToolKit\obj\Debug\net8.0-windows\Markie - Call of the Wild ToolKit.csproj.CopyComplete
+C:\Users\Mark\Desktop\PROJECTS\Markie - Call of the Wild ToolKit\Markie - Call of the Wild ToolKit\obj\Debug\net8.0-windows\Markie - Call of the Wild ToolKit.dll
+C:\Users\Mark\Desktop\PROJECTS\Markie - Call of the Wild ToolKit\Markie - Call of the Wild ToolKit\obj\Debug\net8.0-windows\refint\Markie - Call of the Wild ToolKit.dll
+C:\Users\Mark\Desktop\PROJECTS\Markie - Call of the Wild ToolKit\Markie - Call of the Wild ToolKit\obj\Debug\net8.0-windows\Markie - Call of the Wild ToolKit.pdb
+C:\Users\Mark\Desktop\PROJECTS\Markie - Call of the Wild ToolKit\Markie - Call of the Wild ToolKit\obj\Debug\net8.0-windows\Markie - Call of the Wild ToolKit.genruntimeconfig.cache
+C:\Users\Mark\Desktop\PROJECTS\Markie - Call of the Wild ToolKit\Markie - Call of the Wild ToolKit\obj\Debug\net8.0-windows\ref\Markie - Call of the Wild ToolKit.dll
