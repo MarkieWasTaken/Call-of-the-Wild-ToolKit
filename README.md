@@ -40,6 +40,10 @@ Contributions are welcome! If you have ideas for additional features or improvem
 
 This toolkit is licensed under the [MIT License](LICENSE.md).
 
+## Credits
+
+SWED memory lib.
+His YT -> https://www.youtube.com/@SwedishTwat
 ---
 
 *Disclaimer: Use this toolkit responsibly and in accordance with the game's terms of service. The developers are not responsible for any consequences resulting from the use of this toolkit.*
